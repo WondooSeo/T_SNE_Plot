@@ -2,11 +2,11 @@
 
 # T_SNE_Plot
 
-T-SNE for visualize two different group of data
-
 Language : Python 3
 
 Package : numpy, scikit-learn, matplotlib
+
+T-SNE for visualize two different group of data
 
 # Example of Results
 
