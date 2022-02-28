@@ -6,7 +6,9 @@ Language : Python 3
 
 Package : numpy, scikit-learn, matplotlib
 
-T-SNE for visualize two different group of data
+T-SNE for visualize two different group of data.
+
+Be aware of T-SNE can reduce dimension to only 1~3.
 
 # Example of Results
 
