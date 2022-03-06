@@ -12,7 +12,7 @@ Be aware of T-SNE can reduce dimension to only 1~3.
 
 # Example of Results
 
-This code visualized, and show the possibility of classifying two groups; stroke group and normal old group.[^1]
+This code visualizes high dimension data, and shows the possibility of classifying two groups; stroke group and normal old group.[^1]
 
 <div align = 'center'>
 
