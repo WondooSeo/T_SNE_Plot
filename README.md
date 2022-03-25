@@ -1,6 +1,6 @@
 ※ _This project is licensed under the terms of the MIT license._ ※
 
-# T_SNE_Plot
+# T-SNE Plot
 
 Language : Python 3
 
